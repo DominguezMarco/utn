@@ -1,5 +1,6 @@
 #!/bin/bash
 #comentando linea
+#nueva linea
 # ejemplo for
 
 lista=$(ls )
