@@ -6,7 +6,7 @@ lista=$(ls )
 
 for i in $lista 
 do
-	stat $i
+	file $i
 done
 
 exit 0
