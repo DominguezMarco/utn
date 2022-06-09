@@ -1,5 +1,6 @@
 #!/bin/bash
-# comentando linea
+#comentando linea
+#nueva linea
 # ejemplo for
 
 function help {
